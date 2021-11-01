@@ -17,9 +17,9 @@ def cut_words_and_transfer(entrance_string,bilingual_dict):
     trans_string = " ".join(trans_list)
     return trans_string,unknown_list
 
-def merge_UNK_into_models(unknown_word_list,model_path):
+def merge_UNK_into_models(unknown_word_list,model_path,vocab_file_path):
     model = BertModel.from_pretrained(model_path)
-    tokenizer = WoBertTokenizer("E:\\Steve_Zeng_Related\\YLab\\Translation_BERT_project\\code_project\\data\\BERT-base-uncased-trans-processed.txt")
+    tokenizer = WoBertTokenizer(vocab_file_path))
 
     tokenizer.add_tokens(unknown_word_list)
     model.resize_token_embeddings(len(tokenizer))
