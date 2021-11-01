@@ -19,7 +19,7 @@ def cut_words_and_transfer(entrance_string,bilingual_dict):
 
 def merge_UNK_into_models(unknown_word_list,model_path,vocab_file_path):
     model = BertModel.from_pretrained(model_path)
-    tokenizer = WoBertTokenizer(vocab_file_path))
+    tokenizer = WoBertTokenizer(vocab_file_path)
 
     tokenizer.add_tokens(unknown_word_list)
     model.resize_token_embeddings(len(tokenizer))
