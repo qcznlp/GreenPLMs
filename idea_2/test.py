@@ -13,7 +13,11 @@ print(substitute)
 import gzip
 with gzip.open('C:\\Users\\QingchengZeng\\Desktop\\en_part_1.txt.gz', 'r') as f:
     file_content = f.readlines()
+
+print(len(file_content))
+"""
 with open("train.txt","w",encoding="UTF-8") as f:
     for i,sen in enumerate(file_content):
         sentence = sen.decode("utf-8")
         f.write(sentence)
+"""

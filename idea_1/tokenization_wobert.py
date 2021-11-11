@@ -1,5 +1,5 @@
 import jieba
-from transformers import BasicTokenizer, BertTokenizer
+from transformers import BertTokenizer, BasicTokenizer
 jieba.initialize()
 
 

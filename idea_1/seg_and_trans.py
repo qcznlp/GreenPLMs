@@ -41,7 +41,9 @@ def merge_UNK_into_models(unknown_word_list,model_path,vocab_file_path):
 
     return model,tokenizer
 
+
 """
-m,t = merge_UNK_into_models(["mscsc"],"E:\\Steve_Zeng_Related\\YLab\\Translation_BERT_project\\code_project\\BERT\\bert-base-uncased-trans")
+m,t = merge_UNK_into_models(["mscsc"],"E:\\Steve_Zeng_Related\\YLab\\Translation_BERT_project\\code_project\\BERT\\bert-base-uncased-trans",
+"E:\\Steve_Zeng_Related\\YLab\\Translation_BERT_project\\code_project\\BERT\\bert-base-uncased-trans\\BERT-base-uncased-trans-processed.txt")
 print(t.tokenize("我喜欢威廉姆斯"))
 """

@@ -113,7 +113,6 @@ word姐 my big sister
 厨 kitchen
 以 to use
 坳 a depression
-㙦 
 㛂 graceful
 宿 constellation
 冥 dark
@@ -149,7 +148,6 @@ word姐 my big sister
 深 deep
 涧 mountain stream
 㵮 clear water
-㶸 
 㹴 fierce dog
 㺢㹢狓 okapi
 碗 bowl
@@ -1564,7 +1562,6 @@ word姐 my big sister
 下鼻甲 inferior nasal conchae
 下齿 bottom teeth
 下龙湾 Ha Long Bay
-不 
 不一 to vary
 不一定 not necessarily
 不一会 soon
@@ -3338,7 +3335,6 @@ word姐 my big sister
 幺麽小丑 insignificant wretch
 幺点 ace
 乊 one of the characters used in kwukyel
-之 
 之一 one of 
 之上 above
 之下 under
@@ -3606,7 +3602,6 @@ word姐 my big sister
 乳黄色 cream 
 乳齿 deciduous tooth
 乴 to grasp
-乶 
 乷 phonetic "sal" 
 乸 feminine suffix 
 干 tree trunk
@@ -5121,7 +5116,6 @@ word姐 my big sister
 仙逝 to die
 仙乡 fairyland
 仙鹤 red-crowned crane 
-仞 
 仟 thousand 
 仟悔 repentance 
 仡 strong
@@ -6588,7 +6582,6 @@ word姐 my big sister
 便携 portable
 便携式 portable
 便于 easy to
-便是 
 便服 everyday clothes
 便桶 chamber pot
 便条  note
@@ -7375,7 +7368,6 @@ word姐 my big sister
 倭军 Japanese army  
 倭马亚王朝 Umayyad Empire
 倭黑猩猩 bonobo
-倵 
 倷 you 
 睬 to pay attention
 倻 phonetic ya used in Korean names
@@ -10042,8 +10034,6 @@ word姐 my big sister
 六边形 hexagon
 六陈 food grains 
 六面体 hexahedron
-兮 
-兮兮 
 共 common
 共乘 to ride together
 共事 to work together
@@ -10904,7 +10894,6 @@ word姐 my big sister
 出任 to take up a post
 出份子 to club together 
 出使 to go abroad as ambassador
-出来 
 出来混迟早要还的 if you live a life of crime
 出借 to lend
 出价 to bid
@@ -11183,7 +11172,6 @@ word姐 my big sister
 刃具 cutting tool
 分 part
 分一杯羹  to have a slice of the pie
-分之 
 分享 to share 
 分布 to scatter
 分布图 scatter diagram
@@ -11983,7 +11971,6 @@ word姐 my big sister
 剃须膏 shaving cream
 刭 cut the throat
 则  but
-则个 
 则步隆 Zabulon or Zebulun
 则辣黑 Zerah 
 锉 file 
@@ -16276,7 +16263,6 @@ word姐 my big sister
 司马懿 Sima Yi
 司马承帧 Sima Chengzhen
 司马辽太郎 SHIBA Ryotarō
-叻 
 叻沙 laksa
 叼 to hold with one's mouth 
 叼盘  to hold a frisbee in its mouth
@@ -17053,7 +17039,6 @@ word姐 my big sister
 君王 sovereign king
 君臣 a ruler and his ministers 
 君长  sovereign
-吜 
 吝啬 stingy
 吝啬鬼 miser
 吝惜 to stint
@@ -17340,7 +17325,6 @@ word姐 my big sister
 吾生也有涯，而知也无涯 Life is short
 吾等  we
 吾辈  we
-呀 
 呀诺达 Yanoda
 吕 pitchpipe
 吕塞尔斯海姆 Rüsselsheim
@@ -17351,7 +17335,6 @@ word姐 my big sister
 吕布戟 snake halberd
 吕蒙 Lü Meng
 吕贝克 Lübeck
-呃 
 呃逆 to hiccup
 呆 foolish
 呆住 to be dumbfounded
@@ -17706,7 +17689,6 @@ word姐 my big sister
 和风 breeze
 和食 Japanese cuisine
 和面 to knead dough
-咍 
 咎 fault
 咎有应得 to deserve what one gets  
 咎由自取 to have only oneself to blame 
@@ -17716,7 +17698,6 @@ word姐 my big sister
 咒骂 to damn
 咒诅 to curse
 咒语 incantation
-咔 
 咔唑 carbazole  
 咔嗒  click
 咔叽 khaki 
@@ -18044,14 +18025,12 @@ word姐 my big sister
 哈马斯 Hamas 
 哈马尔 Hamar 
 哈马黑拉岛 Halmahera
-哉 
 哋  plural for pronouns
 哌啶 piperidine  
 哌嗪 piperazine  
 哌替啶 pethidine  
 哎 hey!
 哎呀 interjection of wonder
-哎呦 
 哎唷 interjection of pain or surprise
 哎哟 hey
 哐  clang
@@ -18104,7 +18083,6 @@ word姐 my big sister
 哨子声 whistling sound
 哨所 watchhouse
 哨笛 a whistle
-哩 
 哩哩啦啦 scattered
 哩哩啰啰 verbose or unclear in speech
 哩哩罗罗 endless mumbling 
@@ -18150,7 +18128,6 @@ word姐 my big sister
 哮喘病 asthma
 哮鸣 wheezing
 哱 phonetic bo
-哲 
 哲人 wise man
 哲人其萎 a wise man has passed away 
 哲人石 philosopher's stone
@@ -18341,7 +18318,6 @@ word姐 my big sister
 念 to read
 念念有词 to mumble
 唹 to smile at
-唻 
 唼 to speak evil
 唾 saliva
 唾手可得 easily obtained
@@ -18541,7 +18517,6 @@ word姐 my big sister
 启迪 to edify
 启运 to ship 
 启齿 to open one's mouth
-啡 
 唡 ounce  
 衔 bit 
 啤 beer
@@ -18651,7 +18626,6 @@ word姐 my big sister
 善财难舍 to cherish wealth and find it hard to give up  refusing to contribute to charity
 善辩 eloquent
 善风 fair wind
-喇 
 喇叭 horn 
 喇叭形 flared
 喇叭水仙 daffodil
@@ -19047,7 +19021,6 @@ word姐 my big sister
 单点故障 single point of failure
 单点登录 single sign-on 
 喱 grain weight
-哟 
 喳 chirp
 喳喳 whisper
 喵  meow
@@ -19075,7 +19048,6 @@ word姐 my big sister
 嗉囊 crop 
 唝 sing
 嗍 to suck
-吗 
 吗哪 manna 
 吗啉 morpholine  
 吗啡 morphine 
@@ -19159,7 +19131,6 @@ word姐 my big sister
 嗲 coy
 嗵  thump
 嗵嗵鼓 tom-tom 
-哔 
 哔哔啪啪  flopping sound
 哔叽 serge 
 嗷 loud clamor
@@ -19212,7 +19183,6 @@ word姐 my big sister
 啀 to growl 
 嘌 purine
 嘌呤 purine 
-喽 
 喽啰 bandit
 嘎吱  creak
 嘎啦 to quarrel 
@@ -19228,7 +19198,6 @@ word姐 my big sister
 呕出物 vomitus
 呕吐 to vomit
 呕吐物 vomit
-啧 
 啧啧 to click one's tongue
 啧啧称奇 to click one's tongue in wonder 
 尝尽心酸 to experience one's full share of sorrows 
@@ -19323,7 +19292,6 @@ word姐 my big sister
 呒虾米输入法 Boshiamy  input method for Chinese
 嘹 clear sound
 嘹亮 loud and clear
-嘻 
 嘻哈 hip-hop  
 嘻嘻 hee hee
 嘻皮 hippie 
@@ -19360,7 +19328,6 @@ word姐 my big sister
 咝  to hiss
 咝咝声 hissing sound 
 噞 the movement of a fish's mouth at the surface of the water
-哒 
 哒嗪 pyrazine C4H4N2
 噢 Oh!
 噤 unable to speak
@@ -19399,7 +19366,6 @@ word姐 my big sister
 噬咬 to bite
 噬菌体 bacteriophage
 噭 shout
-嗳 
 嗳气 belching
 嗳气吞酸 belching and acid swallowing 
 嗳气呕逆 belching and retching counterflow 
@@ -19457,13 +19423,10 @@ word姐 my big sister
 噶伦 Tibetan government official
 噶哈巫族 Kaxabu or Kahabu
 噶啷啷  hum and clatter
-噶喇 
 噶嗒  clattering
 噶嘣  kaboom
-噶噶 
 噶布伦 Tibetan government official
 噶厦 government of Tibet
-噶拉 
 噶拉·多杰·仁波切 Garab Dorje Rinpoche
 噶尔 Gar county in Ngari prefecture
 噶尔县 Gar county in Ngari prefecture
@@ -19489,7 +19452,6 @@ word姐 my big sister
 噼里啪啦  to crackle and rattle
 咛 to enjoin
 嚃 to drink
-嚄 
 嚅 chattering
 嚆 sound
 吓 to frighten
@@ -19521,7 +19483,6 @@ word姐 my big sister
 啮齿目 order of rodents 
 啮齿类 rodents 
 嚚 insincere
-嚜 
 嚝 to sigh
 咽下 to swallow
 咽下困难 dysphagia 
@@ -19532,7 +19493,6 @@ word姐 my big sister
 向导 guide
 向往 to yearn for
 嚯  expressing admiration or surprise
-嚱 
 亸 hang down
 严 tight 
 严了眼儿 up to the eyeballs
@@ -19614,10 +19574,8 @@ word姐 my big sister
 嚣张气焰 overweening attitude
 嚣张跋扈 arrogant and despotic
 冁 smilingly
-囆 
 呓 to talk in one's sleep
 呓语 to talk in one's sleep
-啰 
 啰嗦 long-winded
 罗曼带克 romantic 
 啰里啰嗦 long-winded
@@ -20707,12 +20665,10 @@ word姐 my big sister
 在途 in transit 
 在这之前 before then
 在这期间 during time
-在那儿 
 在野 to be out of  office
 在野党 opposition party
 在高处 aloft
 圩  country fair
-圪 
 圪垯 lump
 圬 to plaster
 圭  jade tablet 
@@ -21152,7 +21108,6 @@ word姐 my big sister
 垃圾车 garbage truck 
 垃圾邮件 junk mail
 垃圾食品 junk food
-垇 
 垈 used in place names
 型 mold
 型式 type
@@ -21185,7 +21140,6 @@ word姐 my big sister
 垮塌 to collapse 
 垮脸  to harden
 垮台 to fall from power
-垵 
 垺 extremely large
 垾 small dike
 埂 strip of high ground
@@ -23219,7 +23173,6 @@ word姐 my big sister
 大度包容 generous and forgiving
 大庭广众 public place with numerous people
 大庾岭 Dayu mountain range between southwest Jiangxi and Guangdong
-大厦 
 大厦将倾 great mansion on the verge of collapse  hopeless situation
 大厂 large manufacturer
 大厅 hall
@@ -23829,7 +23782,6 @@ word姐 my big sister
 天安门开了 pants fly is down
 天宫 Temple in Heaven 
 天寒地冻 cold weather
-天尊 
 天山 Tianshan mountain range between XinJiang and Mongolia and Kyrgyzstan
 天崩地裂 heaven falls and earth rends  rocked by a major disaster
 天差地別 poles apart 
@@ -25096,7 +25048,6 @@ word姐 my big sister
 妊妇 expecting mother
 妍 beautiful
 妍丽 beautiful
-妏 
 妒嫉 to be jealous of 
 妒忌 to be jealous of 
 妒能害贤 jealous of the able
@@ -25184,14 +25135,11 @@ word姐 my big sister
 妯娌 wives of brothers
 妲 female personal name 
 妳 you 
-妵 
-妸 
 妹 younger sister
 妹夫 younger sister's husband
 妹妹 younger sister
 妹妹头 bob 
 妹子  younger sister
-妹纸  
 妺 wife of the last ruler of the Xia dynasty
 妻 to marry off 
 妻儿 wife and child
@@ -25200,11 +25148,9 @@ word姐 my big sister
 妻室 wife
 妻管严 henpecked male
 妻离子散 a family wrenched apart 
-妽 
 妾 concubine
 妾侍 maids and concubines
 姁 chatter like old woman
-姄  
 姅 menstruation
 姆 woman who looks after small children
 姆佬 Mulao ethnic group of Guangxi
@@ -25349,7 +25295,6 @@ word姐 my big sister
 姬鹬  jack snipe 
 姮 feminine name 
 姱 fascinating
-姵 
 姺 name of an ancient state
 姻缘 a marriage predestined by fate
 姻亲 affinity
@@ -25433,7 +25378,6 @@ word姐 my big sister
 威风 might
 威风凛凛 majestic
 威骇 to intimidate
-娂 
 娃 baby
 娃儿 children 
 娃娃 baby
@@ -25449,7 +25393,6 @@ word姐 my big sister
 娃子 baby
 娉 graceful
 娉婷   to have a graceful demeanor
-娑 
 娓 active
 娓娓动听 to speak in a pleasant and captivating manner 
 娘儿们  woman
@@ -25481,7 +25424,6 @@ word姐 my big sister
 娥 good
 娩 complaisant
 娭姐 father's mother
-娵 
 娶 to take a wife
 娶妻 to take a wife
 娶媳妇 to get oneself a wife
@@ -25559,7 +25501,6 @@ word姐 my big sister
 婞 upright
 婢 slave girl
 婢女 slave girl
-婤 
 婥 weak
 妇人 married woman
 妇人之仁 excessive tendency to clemency 
@@ -25577,21 +25518,17 @@ word姐 my big sister
 妇联 women's league
 妇道人家 woman 
 婧  slender
-婨  
 婬 obscene
 娅 address term between sons-in-law
-婮 
 婷 graceful
 婹 svelte
 婺 beautiful
-婺女 
 婼 recalcitrant
 婽 good
 媁 ugly
 媄 beautiful
 媅 content
 媊 planet Venus in the morning
-媏  
 媒 medium
 媒人 go-between
 媒介 intermediary
@@ -25607,7 +25544,6 @@ word姐 my big sister
 媒体访问控制 Media Access Control
 媕 undecided
 媕婀  to hesitate
-媖 
 媚 flatter
 媚俗 to cater to the public's taste
 媚外 to fawn on foreigners
@@ -25623,7 +25559,6 @@ word姐 my big sister
 媠 beautiful
 媢 envious
 娲 surname Wa
-媩  
 媬 governess
 媮 improper
 㛀 pregnant woman 
@@ -25785,7 +25720,6 @@ word姐 my big sister
 嬦  used in ladies' names
 嫔 imperial concubine
 嫔妃 imperial concubine
-嬫 
 嬬 mistress
 婴 infant
 婴儿 infant
@@ -25813,7 +25747,6 @@ word姐 my big sister
 娈童 catamite 
 娈童恋 pederasty
 娈童者 child molester
-子 
 子代 offspring
 子儿  penny
 子公司 subsidiary company
@@ -26867,7 +26800,6 @@ word姐 my big sister
 客堂 room to meet guests
 客场 away-game arena
 客套话 conventional greeting
-客官 
 客室 guest room
 客家 Hakka ethnic group
 客家人 Hakka people
@@ -28860,7 +28792,6 @@ word姐 my big sister
 就寝时间 bedtime
 就座 to take a seat
 就擒 to be taken prisoner
-就是 
 就是说 in other words
 就晚了 then it's too late 
 就服  employment service 
@@ -29482,7 +29413,6 @@ word姐 my big sister
 岔道 side road
 岔开 to diverge
 岝 name of a mountain in Shandong
-岞 
 冈 ridge
 冈上肌 supraspinatus muscle
 冈下肌 infraspinatus muscle
@@ -29545,7 +29475,6 @@ word姐 my big sister
 岸然 solemn
 岸边 shore
 峁 round yellow dirt mount 
-峂 
 峇 cave
 峇厘 Bali  
 峇峇娘惹 Peranakan Chinese
@@ -31298,7 +31227,6 @@ word姐 my big sister
 庇荫 to give shade 
 庇西特拉图 Pisistratus
 庇护 asylum
-庈 
 庉 a village
 床上戏 sex scene 
 床位 bed 
@@ -32670,7 +32598,6 @@ word姐 my big sister
 徇情 to act out of personal considerations
 徇私枉法 to bend the law in order to favor one's relatives or associates 
 徇私舞弊 to abuse one's position for personal gain 
-很 
 很多时 often
 徉 to walk back and forth
 律 law
@@ -33789,7 +33716,6 @@ word姐 my big sister
 忿懑 indignant
 怍 ashamed
 怎 how
-怎一个愁字了得 
 怎样 how
 怎生 how
 怎的 what for
@@ -33850,7 +33776,6 @@ word姐 my big sister
 思之心痛 a thought that causes heartache 
 思前想后 to consider past cause and future effect  to think over the past and future
 思嘉丽 Scarlett 
-思密达   
 思忖 to ponder
 思念 to think of
 思情 to miss
@@ -35149,7 +35074,6 @@ word姐 my big sister
 慈颜 one's mother's loving face
 慉 to foster
 慊 contented
-态 
 态势 posture
 态子 state of matter 
 态射 morphism 
@@ -42517,7 +42441,6 @@ word姐 my big sister
 斜躺 to recline
 斜轴 oblique axes 
 斜边 sloping side
-斜钩 
 斜长石 plagioclase 
 斜阳 setting sun
 斜靠 to recline
@@ -42566,7 +42489,6 @@ word姐 my big sister
 斩草除根 to cut weeds and eliminate the roots  to destroy root and branch
 斩首 to behead
 斮 cut off
-斯 
 斯佩林 Spelling 
 斯佩罗 Spero 
 斯佩耳特小麦 spelt  
@@ -44263,7 +44185,6 @@ word姐 my big sister
 晾干 to dry by the sun
 晾衣夹 clothes pin
 晾衣绳 clothesline
-晿 
 暄 genial and warm
 暄腾 soft and warm 
 暆  declining
@@ -44413,7 +44334,6 @@ word姐 my big sister
 暗锁 built-in lock
 暗间儿 inner room
 暗香 subtle fragrance
-暗香疏影 
 暗鹭 black-crowned night heron 
 暗黑破坏神 Diablo 
 旸 rising sun
@@ -46090,7 +46010,6 @@ word姐 my big sister
 杜鹃花 Indian Azalea 
 杜鹃花科 Ericaceae
 杜鹃鸟 cuckoo 
-杝 
 杞 Chinese wolfberry shrub 
 杞人之忧 man of Qǐ fears the sky falling  groundless fears
 杞人忧天 man of Qǐ fears the sky falling  groundless fears
@@ -46292,7 +46211,6 @@ word姐 my big sister
 杳霭 far and deep
 杴 shovel
 杵 pestle
-杶 
 杸 to kill
 杻 handcuffs
 杼 shuttle of a loom
@@ -46403,7 +46321,6 @@ word姐 my big sister
 枉费 to waste 
 枉顾 to neglect
 枋 Santalum album
-枌 
 楠 Machilus nanmu
 析 to separate
 析出 to separate out
@@ -46577,7 +46494,6 @@ word姐 my big sister
 枯叶剂 Agent Orange 
 枰 chess-like game
 枲 male nettle-hemp
-枳 
 枳实 dried fruit of immature citron or trifoliate orange 
 枳壳 bitter orange  
 枵 empty
@@ -46612,14 +46528,12 @@ word姐 my big sister
 枹 Quercus glandulifera
 枻 oar
 柁 main beam of roof
-柂 
 柃 Eurya japonica
 柄 handle or shaft 
 柄国 to hold state power
 柄政 to rule
 柄权 to hold power
 柄臣 powerful official
-柅 
 柈 plate
 柊叶 Phrynium capitatum
 柎 calyx of flower
@@ -46720,7 +46634,6 @@ word姐 my big sister
 柞栎 Mongolian oak 
 柢 foundation
 柣 threshold
-柤 
 查克·诺里斯 Chuck Norris
 查克拉 chakra 
 查克瑞 chakra
@@ -47119,7 +47032,6 @@ word姐 my big sister
 根除 to eradicate
 根音 root of chord
 根须 roots
-栻 
 格 square
 格但斯克 Gdansk
 格位 case 
@@ -47201,7 +47113,6 @@ word姐 my big sister
 栽筋斗 to tumble
 栽赃 to frame sb 
 栽跟头 to fall head over heels
-桀 
 桀王 King Jie
 桀贪骜诈 brutal
 桀骜不驯 arrogant and obstinate 
@@ -47280,7 +47191,6 @@ word姐 my big sister
 桉 Eucalyptus globulus
 桉树 eucalyptus
 桉叶油 eucalyptus oil
-桋 
 桌上型 desktop
 桌上型电脑 desktop computer
 桌子 table
@@ -47340,7 +47250,6 @@ word姐 my big sister
 桶口 bunghole
 桶孔 bunghole
 桷 rafter
-桹 
 杆弟 caddie 
 杆秤 a steelyard 
 杆菌 bacillus 
@@ -47456,7 +47365,6 @@ word姐 my big sister
 枭首 to behead
 枭首示众 to behead sb and display the head in public
 梠 beam at the eaves
-梡 
 梢 tip of branch
 梣 Chinese ash 
 梣树 Chinese ash 
@@ -47747,8 +47655,6 @@ word姐 my big sister
 栈顶 stack top 
 棨 tally for going through a pass
 棩 crooked 
-棪 
-棫 
 棬 bowl
 森 forest
 森严 strict
@@ -47796,7 +47702,6 @@ word姐 my big sister
 椈 Fagus sylvatica
 椊 to fit a handle into a socket
 椋鸟 starling
-椌 
 植 to plant
 植入 to implant
 植入式广告 product placement
@@ -47853,7 +47758,6 @@ word姐 my big sister
 椰蓉 desiccated coconut
 椳 the pivots
 椴 Chinese linden 
-椵 
 缄 letters
 椸 clothes-horse
 椽 beam
@@ -47934,7 +47838,6 @@ word姐 my big sister
 楦子 shoe tree
 楦头 toe box 
 桢 evergreen shrub
-楩 
 楪 small dish
 楬 a peg
 业 line of business
@@ -47969,7 +47872,6 @@ word姐 my big sister
 楮 Broussonetia kasinoki
 楮纸 kozogami
 楯 draw forth
-楰 
 极 extremely
 极了 extremely
 极值 maxima and minima
@@ -48064,7 +47966,6 @@ word姐 my big sister
 榆林市 Yulin prefecture level city in Shaanxi
 榆树 elm
 榊 sakaki
-榎 
 榔 tall tree 
 榔榆 Chinese or lacebark elm 
 榔槺 cumbersome
@@ -48270,7 +48171,6 @@ word姐 my big sister
 槽头 feeding trough in stable
 槽齿目 Thecodontia 
 槽齿类 thecodont 
-槾 
 槿 Hibiscus syriacus
 桩 stump
 桩构栈道 pile trestle
@@ -48585,7 +48485,6 @@ word姐 my big sister
 桦树 birch
 樽罍 earthen liquor jar
 樾 shade of trees
-椫 
 橁 Fraxinus bungeana
 橃 large boat
 橄 olive
@@ -48792,7 +48691,6 @@ word姐 my big sister
 横截线 transversal line
 横截面 cross-section
 横批 horizontal scroll 
-横折 
 横挑鼻子竖挑眼 to pick on sth incessantly 
 横振动 transverse vibration
 横扫 to sweep away
@@ -48896,7 +48794,6 @@ word姐 my big sister
 柽 tamarisk
 檊 Chinese mulberry
 檍 Quercus glauca
-檎 
 檑 logs rolled down in defense of city
 档 official records
 档口 stall
@@ -48917,7 +48814,6 @@ word姐 my big sister
 档案转送存取及管理 File Transfer
 档案馆 archive library
 档次 grade
-檖 
 檗 Phellodendron amurense
 桧 Chinese juniper 
 桧木 false cypress 
@@ -48985,7 +48881,6 @@ word姐 my big sister
 槟榔屿 Penang Pulau
 槟榔西施 betel nut beauty: a skimpily-dressed
 槟知 Ben Tre
-檴 
 檵木 fringe flower
 檵花 fringe flower
 柠 lemon
@@ -49297,7 +49192,6 @@ word姐 my big sister
 歌迷 fan of a singer
 歌颂 to sing the praises of
 叹号 exclamation mark 
-欧 
 欧亚 Europe and Asia
 欧亚大陆 Eurasia
 欧亚红尾鸲  common redstart 
@@ -49387,8 +49281,6 @@ word姐 my big sister
 欧鸽  stock dove 
 歔 to snort
 歙 name of a district in Anhui
-歜 
-欤  
 歠  to drink
 欢势 lively
 欢呼 to cheer for
@@ -49521,7 +49413,6 @@ word姐 my big sister
 正方体 a rectangular parallelepiped
 正日 the day 
 正旦 starring female role in a Chinese opera
-正是 
 正时 timing 
 正书 regular script 
 正月 first month of the lunar year
@@ -49627,7 +49518,6 @@ word姐 my big sister
 此时此刻 at this very moment
 此时此地 here and now
 此次 this time
-此致 
 此致敬礼 respectfully yours 
 此处 this place
 此起彼伏 up here
@@ -50125,7 +50015,6 @@ word姐 my big sister
 殷忧启圣 deep suffering can lead to enlightenment 
 殷殷 earnest
 殷红 dark red
-殹  
 杀 to kill
 杀人 homicide
 杀人不眨眼 to murder without blinking an eye 
@@ -50475,7 +50364,6 @@ word姐 my big sister
 毛根 a strand of hair
 毛条 wool top
 毛概 Introduction to Maoism 
-毛毛 
 毛毛虫 caterpillar
 毛毛雨 drizzle
 毛毯 blanket
@@ -50835,7 +50723,6 @@ word姐 my big sister
 气贯长虹 spirit reaches to the rainbow
 气质 temperament
 气道 flue
-气量 
 气锤 air hammer
 气钻 pneumatic drill
 气门 valve 
@@ -51333,7 +51220,6 @@ word姐 my big sister
 求锤得锤   to demand proof of what one believes to be an unfounded accusation only to have irrefutable evidence duly supplied
 求饶 to beg forgiveness
 汆 quick-boil
-汈 
 汊 branching stream
 汋 to pour
 汍 shed tears
@@ -52100,7 +51986,6 @@ word姐 my big sister
 况且 moreover
 况味 circumstances
 泂 vast
-泃 
 泃河 Ju River
 泄出 to leak out
 泄殖肛孔 cloaca 
@@ -53282,7 +53167,6 @@ word姐 my big sister
 浮点型 floating-point
 浮点数  floating-point number
 浮点运算 floating point operation
-浯 
 浰 to attend 
 浴 bath
 浴场 bathing spot
@@ -53723,7 +53607,6 @@ word姐 my big sister
 涕零 to shed tears
 莅 to attend 
 涘 river bank
-涪 
 涫  to boil
 涬 watery expanse
 涮 to rinse
@@ -53785,7 +53668,6 @@ word姐 my big sister
 凉面 cold noodles
 涿 place name
 淀 sediment
-淂 
 淄 black
 淄博 Zibo
 淄博市 Zibo prefecture level city in Shandong
@@ -54669,7 +54551,6 @@ word姐 my big sister
 湟 name of a river
 湟鱼 naked carp
 湢 public bathhouse
-湣 
 涌入 to come pouring in
 涌出 to gush
 涌泉 gushing spring
@@ -54721,7 +54602,6 @@ word姐 my big sister
 汤饼筵 dinner party given on the third day after the birth of a baby 
 湱 dashing of waves
 湲 rushing 
-湳 
 湴 to wade through water or mud
 沩 name of a river in Shanxi
 溉 to irrigate
@@ -54896,7 +54776,6 @@ word姐 my big sister
 溯溪 river tracing
 溱 name of a river
 溲 to urinate
-涢 
 溴 bromine 
 溴化氰 cyanogen bromide
 溴化钾 potassium bromide
@@ -55006,7 +54885,6 @@ word姐 my big sister
 涤罪所 purgatory 
 涤荡 to wash off
 涤除 to wash away
-滍 
 荥 place name
 荥阳 Xingyang city and county in Henan
 荥阳县 Xingyang county in Henan
@@ -55787,7 +55665,6 @@ word姐 my big sister
 泽西岛 Jersey 
 泽鹬  marsh sandpiper 
 澥 to become watery
-滪 
 澨 bank
 澬 to rain continuously
 浍 drain
@@ -55826,7 +55703,6 @@ word姐 my big sister
 澶 still 
 澹 tranquil
 澼 bleach
-澽 
 激 to arouse
 激光 laser
 激光二极管 laser diode
@@ -56144,7 +56020,6 @@ word姐 my big sister
 洒脱 free and at ease
 灒 to spatter
 漓江 River Li
-灖 
 滩 beach
 滩涂 mudflat
 滩头堡 beachhead 
@@ -56489,7 +56364,6 @@ word姐 my big sister
 炙 to broil
 炙热 extremely hot 
 炙酷 torrid weather
-炟 
 炤 surname Zhao
 照 according to
 炫 to dazzle
@@ -57296,7 +57170,6 @@ word姐 my big sister
 煎饺 fried dumpling
 煎饼 jianbing
 煏  to dry by a fire
-煐 
 煮 to cook
 炜 glowing
 烟 cigarette or pipe tobacco
@@ -57518,14 +57391,11 @@ word姐 my big sister
 煽阴风 to raise an ill wind
 煽风点火  to fan the flames
 熀 bright
-熁 
 熄 to extinguish
 熄灭 to stop burning
 熄火  to go out
 熄灯 turn out the lights
 熇 dry
-熙 
-𤈶 
 熊 bear
 熊倪 Xiong Ni
 熊包 worthless person
@@ -57644,7 +57514,6 @@ word姐 my big sister
 熠熠 glistening
 熠烁 to twinkle
 熠耀 to shine
-熤 
 熥 to heat up  by baking or steaming
 熨 an iron
 熨斗 clothes iron
@@ -58247,7 +58116,6 @@ word姐 my big sister
 尔格 erg  
 尔雅 "Erya" or "The Ready Guide"
 爿 classifier for strips of land or bamboo
-牁 
 牂 female sheep
 牄 to walk rapidly
 墙垣 wall
@@ -58589,7 +58457,6 @@ word姐 my big sister
 牲畜粪 animal manure
 牲礼  to sacrifice
 牲体 body of an animal  killed sacrificially
-牳 
 牴 to butt
 牷 one-color bullock
 牸 female of domestic animals
@@ -59011,7 +58878,6 @@ word姐 my big sister
 狩猎 to hunt
 狫 name of a tribe
 狳 armadillo
-狴 
 狷 nimble
 狸子 leopard cat
 狸猫 leopard cat
@@ -59025,7 +58891,6 @@ word姐 my big sister
 狭长 long and narrow
 狭隘 narrow
 狺 snarling of dogs
-狻 
 狼 wolf
 狼井 wolf trap
 狼人 werewolf
@@ -59063,7 +58928,6 @@ word姐 my big sister
 猖狂 savage
 猖猖狂狂 wild
 猖獗 to be rampant
-猗 
 猘 mad dog
 狰 hideous
 狰狞 malevolent
@@ -59187,7 +59051,6 @@ word姐 my big sister
 猸子 mongoose
 猹 Badger-like wild animal
 猺 Yao tribe
-狲 
 猾 sly
 猿人 apeman
 猿猴 apes and monkeys
@@ -59615,7 +59478,6 @@ word姐 my big sister
 玓 pearly
 玓𬍛 brilliance of pearls
 玔 jade ring
-玕 
 玖 black jade
 玗 semiprecious stone
 玘 type of jade ornament for court dress 
@@ -59623,7 +59485,6 @@ word姐 my big sister
 玟 veins in jade
 玠 jade tablet indicating rank
 玢 porphyrites
-玤 
 玥 pearl used in sacrifice
 玦 penannular jade pendant
 珏 gems mounted together
@@ -59670,7 +59531,6 @@ word姐 my big sister
 玩转 to know all the ins and outs of sth
 玩遍 to visit 
 玩阴的 to play dirty
-玫 
 玫瑰 rugosa rose  
 玫瑰念珠 rosary 
 玫瑰战争 The Wars of the Roses 
@@ -59719,7 +59579,6 @@ word姐 my big sister
 珀西·比希·雪莱 Percy Bysshe Shelley
 珂 jade-like stone
 珂罗版 collotype  
-珃 
 珅 a kind of jade
 珇 carving on jade
 珈 gamma
@@ -59756,9 +59615,6 @@ word姐 my big sister
 珍馐美味 delicacy and fine taste  a wonderful treat
 珍馐美馔 delicacy and fine taste  a wonderful treat
 珓 pair of hemispherical objects used in divination
-珔 
-珖 
-珙 
 珙桐 dove tree 
 珚 a kind of jade
 珛 quickly-deteriorating jade
@@ -59784,7 +59640,6 @@ word姐 my big sister
 珠联璧合 string of pearl and jade  ideal combination
 珠茶 gunpowder tea
 珠颈斑鸠  spotted dove 
-珣 
 珣玗琪 type of ancient jade
 珥 pearl or jade earring
 珧 mother-of-pearl
@@ -59964,7 +59819,6 @@ word姐 my big sister
 球类 ball sports
 球馆  arena
 球体 spheroid
-琅 
 琅嬛 mythical fairy realm
 理 texture
 理中客 rational
@@ -60034,7 +59888,6 @@ word姐 my big sister
 理发店 barbershop
 理发厅  barbershop
 理发院 barbershop
-琇 
 琉特琴 lute 
 琉球 Ryūkyū
 琉球国 Ryūkyū kingdom 1429-1879 
@@ -60057,11 +59910,9 @@ word姐 my big sister
 琥 amber
 琥珀 amber
 琦 curio
-琨 
 琪 fine jade
 琫 gem ornament of scabbard
 琬 ensign of royalty
-琭 
 琮 jade tube with round hole and rectangular sides
 琯 mus instr
 琰 gem
@@ -60093,14 +59944,7 @@ word姐 my big sister
 珐 enamel ware
 珐琅 enamel
 珐琅质 tooth enamel
-珲 
-瑀 
-瑁 
-瑂 
-瑃 
 瑄 ornamental piece of jade
-玮 
-瑏 
 瑑 engraved lines
 瑔 jade
 瑕 blemish
@@ -60111,7 +59955,6 @@ word姐 my big sister
 瑙蒙短尾鹛  Naung Mung scimitar babbler 
 瑙鲁 Nauru
 瑚 coral
-瑛 
 瑜 excellence
 瑜伽 yoga 
 瑜迦 yoga 
@@ -60188,7 +60031,6 @@ word姐 my big sister
 玛丽亚 Maria 
 玛丽娅 Maria 
 玛丽莲·梦露 Marilyn Monroe
-瑭 
 琅玡山 Mt Langya in eastern Anhui Province
 瑰伟 ornate 
 瑰奇 magnificent
@@ -60209,21 +60051,15 @@ word姐 my big sister
 璀错 many and varied
 璁 stone similar to jade
 璅 fragmentary
-璆 
-璈 
 琏 vessel used for grain offerings
-𫞩 
 璋 ancient stone ornament
 璐 beautiful jade
 璘 luster of gem
-璚 
 璜 semicircular jade ornament
 璞 unpolished gem
 璟 luster of gem
-璠 
 琎 jade-like stone
 玑 irregular pearl
-璥 
 瑷珲条约 Treaty of Aigun
 璧 jade annulus
 璧玉 jade disk with a hole in the center
@@ -60233,7 +60069,6 @@ word姐 my big sister
 璨玉 lustrous jade
 璨璨 very bright
 璨美 resplendent
-璩 
 璪 pendant of pearls on coronet
 珰  pendant ornament
 㻅 jade ornament in the seams of cap
@@ -60320,7 +60155,6 @@ word姐 my big sister
 璱 bright 
 璲 pendant girdle-ornaments
 玙 ornamental jade
-璸 
 璺 a crack
 玺 ruler's seal
 玺印 seal 
@@ -61707,7 +61541,6 @@ word姐 my big sister
 疚 chronic disease
 疝 hernia
 疝气 hernia
-疢 
 疣 nodule
 疣状 warty
 疣猪 warthog
@@ -62051,7 +61884,6 @@ word姐 my big sister
 瘆 to terrify
 瘆人 scary
 瘆得慌 frightening
-瘯 
 瘰 scrofula
 瘰疬 scrofula 
 瘰螈 triton
@@ -62966,7 +62798,6 @@ word姐 my big sister
 百余 a hundred or more
 百香 passion fruit
 百香果 passion fruit
-癿 
 皀 one grain
 皁 black
 皂 soap
@@ -64347,7 +64178,6 @@ word姐 my big sister
 睫状体 ciliary body 
 睯 to be agonized
 睹物思人 seeing an object makes one miss its owner 
-睺 
 睽 separated
 睽违 to be separated  for a period of time
 睽隔 to be separated
@@ -64567,7 +64397,6 @@ word姐 my big sister
 知错能改 to recognize one's mistakes and be able to reform oneself 
 知难而退 to sound out the difficulties and retreat to avoid defeat  fig to back out of an awkward situation
 知音 intimate friend
-矧 
 矨 short and small
 矩尺 set square 
 矩尺座 Norma 
@@ -64817,7 +64646,6 @@ word姐 my big sister
 石鲮鱼 pangolin 
 石盐 rock salt
 石龙子 skink
-矷 
 矸 a rock or cliff
 矸子 waste rock 
 矸石 waste rock 
@@ -65205,7 +65033,6 @@ word姐 my big sister
 硼砂 borax
 硼酸 boric acid H3BO3
 硾 iodide
-碃 
 碇泊 to moor
 碉 rock cave 
 碉堡 pillbox 
@@ -65234,7 +65061,6 @@ word姐 my big sister
 碎裂 to disintegrate
 碎钻 small diamonds
 碎音钹 crash cymbal 
-碏 
 碑 a monument
 碑亭 pavilion housing a stele
 碑刻 inscription on stone tablet
@@ -65258,7 +65084,6 @@ word姐 my big sister
 碘化钾 potassium iodide
 碘化银 silver iodide
 碘酸 iodic acid
-碚 
 碝 jade-like stone
 碞 cliff
 碟 dish
@@ -65458,7 +65283,6 @@ word姐 my big sister
 砖红土 red brick clay
 砖头 brick
 磛 cliff
-磜 
 硵 sal ammoniac
 磡 dangerous sea-cliff
 碜 gritty 
@@ -65570,7 +65394,6 @@ word姐 my big sister
 碍面子  for fear of offending sb
 礜 arsenic
 礜石 arsenic ore
-礞 
 礴 to fill
 礤 shredder
 礤床 vegetable shredder
@@ -65708,7 +65531,6 @@ word姐 my big sister
 祁奚之荐 Qi Xi's recommendation  recommending the best person for the job independent of factional loyalty
 祁连山 Qilian Mountains in Qinghai
 祁连山脉 Qilian Mountains
-祂 
 祄 to bless
 祅 evil spirit
 祆 Ormazda
@@ -66550,7 +66372,6 @@ word姐 my big sister
 租赁 to rent
 租金 rent
 租钱 rent
-秠 
 秣 feed a horse with grain
 秤 steelyard
 秤杆 the beam of a steelyard
@@ -66731,7 +66552,6 @@ word姐 my big sister
 棱角 edge and corner
 棱锥 pyramid 
 棱镜 prism
-稞 
 禀 to make a report 
 禀告 to report 
 禀报 to report 
@@ -66857,7 +66677,6 @@ word姐 my big sister
 谷糠 grain chaff
 谷草 straw
 谷类 cereal
-穄 
 糠 husk
 穆 solemn
 穆勒鞋 mule shoes 
@@ -67762,7 +67581,6 @@ word姐 my big sister
 笨鸡 free-range chicken
 笪 rough bamboo mat
 笫 bamboo mat
-第 
 第一 first
 第一例 first case
 第一国际 First international
@@ -67995,7 +67813,6 @@ word姐 my big sister
 策论 essay on current affairs submitted to the emperor as policy advice 
 策谋 stratagem 
 策马 to urge on a horse using a whip or spurs
-筘 
 筠 skin of bamboo
 筢 bamboo rake
 筢子 bamboo rake
@@ -68022,7 +67839,6 @@ word姐 my big sister
 筷子腿  skinny legs
 筷子芥 Arabis
 筸 name of a place in Henan
-箂 
 箊 bamboo with thin
 笺注 to annotate 
 箍 hoop
@@ -68072,7 +67888,6 @@ word姐 my big sister
 算起来 to calculate
 箘 bamboo shoots
 箙 quiver
-箛 
 箜 ancient harp
 箜篌 konghou 
 箜簧 old reed wind instrument
@@ -68142,7 +67957,6 @@ word姐 my big sister
 管闲事 to meddle
 管风琴 organ
 管龠 flute
-箬 
 箭 arrow
 箭杆 arrow shaft
 箭步 sudden big stride forward
@@ -68220,7 +68034,6 @@ word姐 my big sister
 节余 to save
 节骨眼  critical juncture
 节点 node
-篁 
 篃 a kind of bamboo
 范 surname Fan
 范例 example
@@ -68244,7 +68057,6 @@ word姐 my big sister
 箧笥 bamboo box for holding books
 箧箧 long and thin
 箧衍 bamboo box
-篌 
 筼筜 species of tall bamboo
 筼筜湖 Yundang or Yuandang Lake in Xiamen
 𥬠 basket for straining
@@ -68333,7 +68145,6 @@ word姐 my big sister
 簏 box
 蓑 rain coat made of straw etc
 簕竹 spiny bamboo 
-簜 
 簝 bamboo receptacle used to hold meat for temple sacrifices in ancient times
 箪 round basket for cooked rice
 箪笥 bamboo box
@@ -68407,7 +68218,6 @@ word姐 my big sister
 簧风琴 harmonium
 簨 cross-beam for hanging bells
 箫 xiao
-簬 
 簰 bamboo raft
 簸扬 winnow
 簸谷 to winnow grain
@@ -68448,7 +68258,6 @@ word姐 my big sister
 簿籍 account books
 簿记 bookkeeping
 簿记管理员 commissarian
-籀 
 籀文 seal script used throughout the pre-Han period
 籀书 seal script used throughout the pre-Han period
 篮 basket 
@@ -71711,7 +71520,6 @@ word姐 my big sister
 骂声 scolding
 骂街 to shout abuses in the street
 罶 creel
-罢 
 罢了 a modal particle indicating 
 罢休 to give up
 罢免 to remove sb from their post
@@ -71729,7 +71537,6 @@ word姐 my big sister
 罹祸 to suffer a disaster
 罹难 to die in an accident or disaster
 罻 bird net
-罽 
 罾 large square net
 罿 bird net
 羃 cover of cloth for food
@@ -73516,7 +73323,6 @@ word姐 my big sister
 聋子 deaf person
 聋聩 deaf
 聋胞 hearing impaired person 
-聿 
 肄 to learn
 肄业 to attend 
 肄业生 dropout student
@@ -74693,7 +74499,6 @@ word姐 my big sister
 腽肭脐 penis and testes of fur seal 
 膆  fat
 膇 swelling of foot
-膈 
 膈应  objectionable
 膈肌 diaphragm 
 膈膜 diaphragm 
@@ -76534,7 +76339,6 @@ word姐 my big sister
 苗头 first signs
 苘 Indian mallow 
 苘麻 Indian mallow 
-苙 
 苛 severe
 苛刻 harsh
 苛性 caustic 
@@ -76759,13 +76563,11 @@ word姐 my big sister
 英雄难过美人关 even heroes have a weakness for the charms of a beautiful woman 
 英灵 spirit of a martyr
 苲草 hornwort
-苴 
 苴麻 female hemp plant 
 苶 weary
 苷 licorice
 苹 apple
 苻 Angelica anomala
-苾 
 茀 luxuriant growth
 茀星 comet 
 茁 to display vigorous
@@ -76935,8 +76737,6 @@ word姐 my big sister
 茼蒿 crown daisy
 荀 herb 
 荀彧 Xun Yu
-荁 
-荃 
 荃湾 Tsuen Wan district of New Territories
 荄 roots of plant
 荅 to answer
@@ -77222,7 +77022,6 @@ word姐 my big sister
 菀 luxuriance of growth
 菁 leek flower
 菁华 the cream
-菅 
 菅原 Sugawara 
 菆 arrow
 菇 mushroom
@@ -77263,7 +77062,6 @@ word姐 my big sister
 菔 turnip
 芲 tree name 
 菖蒲 Acorus calamus
-菘 
 菘蓝 Isatis tinctoria 
 菜 dish 
 菜系  cuisine
@@ -77513,7 +77311,6 @@ word姐 my big sister
 萎靡 dispirited
 萎靡不振 dispirited and listless  downcast
 萏 lotus
-萐 
 萑 a kind of reed
 萘 naphthalene C10H8
 萘丸 mothball
@@ -77924,7 +77721,6 @@ word姐 my big sister
 莳 to grow
 莳萝 dill 
 莳萝籽 dill seed
-蒗 
 蒙冤 to be wronged
 蒙受 to suffer
 蒙古 Mongolia
@@ -77961,7 +77757,6 @@ word姐 my big sister
 蒙日 Gaspard Monge
 蒙昧 uncultured
 蒙昧无知 benighted 
-蒙求 
 蒙牛 China Mengniu Dairy Company Limited
 蒙特内哥罗 Montenegro 
 蒙特利尔 Montreal
@@ -78154,7 +77949,6 @@ word姐 my big sister
 蓖麻籽 castor beans
 蓧 bamboo basket
 蓪 Aralia papyrifera
-蓫 
 蓬 fleabane 
 蓬乱 matted 
 蓬勃 vigorous
@@ -78191,9 +77985,7 @@ word姐 my big sister
 莲藕 lotus root
 莲雾 wax apple 
 苁 Boschniakia glabra
-蓰 
 蓷 Leonurus macranthus
-蓸 
 蓺 skill
 蓼 luxuriant growth
 蓼蓝 indigo dye
@@ -78227,7 +78019,6 @@ word姐 my big sister
 蔗农 sugar cane farmer
 蔗露 Jello
 蔘 ginseng
-蔙 
 蔚 Artemisia japonica
 蔚成 to afford 
 蔚为大观 to afford a magnificent sight 
@@ -78525,7 +78316,6 @@ word姐 my big sister
 熏陶 to seep in
 䓕  type of grass
 薳 surname Wei
-苧 
 苧烯  limonene
 薶 to make dirty
 薷 Elshotria paltrini
@@ -78536,12 +78326,10 @@ word姐 my big sister
 荠 water chestnut
 荠菜 shepherd's purse 
 荠苧  Mosla grosseserrata
-薽 
 薾 luxuriant growth of flower
 薿 luxuriant 
 藁本 Ligusticum levisticum 
 藁草 hay
-藄 
 藇 beautiful
 藉 sleeping mat
 藉口 to use as an excuse
@@ -78774,12 +78562,10 @@ word姐 my big sister
 蔺 juncus effusus
 藻 aquatic grasses
 藻类 algae
-藾 
 藿 Lophanthus rugosus
 藿香 wrinkled giant hyssop
 萚 fallen leaves and bark
 蘁 to disobey
-蕲 
 蘅 Asarum blumei 
 蘅芜 Asarum blumei 
 芦 rush
@@ -79180,7 +78966,6 @@ word姐 my big sister
 蚊帐 mosquito net
 蚊虫 mosquito
 蚊香 mosquito-repellent incense or coil
-蚋 
 蚌 mussel
 蚌埠 Bengbu prefecture-level city in Anhui
 蚌埠市 Bengbu prefecture-level city in Anhui
@@ -79193,10 +78978,8 @@ word姐 my big sister
 蚛   to nibble
 蚜 aphis
 蚜虫 greenfly 
-蚡 
 蚣 scolopendra centipede
 蚤 flea
-蚨 
 蚩 ignorant
 蚪 tadpole
 蚯 earthworm
@@ -79370,7 +79153,6 @@ word姐 my big sister
 蜈 centipede
 蜈支洲岛 Wuzhizhou Island
 蜈蚣 centipede
-蜉 
 蜉蝣 mayfly
 蜊 clam
 螂 dragonfly
@@ -79447,7 +79229,6 @@ word姐 my big sister
 蝌蚪 tadpole
 蝍 a centipede
 蝎 scorpion
-蝏 
 蝒 large
 蝓 snail
 蚀 to nibble away at sth
@@ -79523,7 +79304,6 @@ word姐 my big sister
 螃 crab
 螃蟹 crab
 蛳 snail
-螅 
 螈 salamander
 螉䗥 parasitic wasp 
 融入 to blend into
@@ -79624,7 +79404,6 @@ word姐 my big sister
 螺髻 spiral coil 
 蝼蛄 mole cricket
 蝼蛄科 Gryllolaptaptidae family of burrowing insects of order Orthoptera
-螽 
 螽斯 katydid or long-horned grasshopper 
 螽斯科 Tettigoniidae 
 螽斯总科 Tettigonioidea 
@@ -79655,20 +79434,16 @@ word姐 my big sister
 蟒 python
 蟒蛇 python
 蟓 silkworm
-蟛 
-蟜 
 蟠 to coil
 蟠尾丝虫 Onchocerca volvulus
 蟠尾丝虫症 "river blindness" or onchocerciasis
 蟠桃 flat peach 
 蟠龙 coiled dragon
-蟢 
 蟢子 Tetragnatha 
 虮 nymph of louse
 虮子 louse egg
 蟥 horse-leech
 蟨 Siberian jerboa
-蟪 
 蟪蛄 Platypleura kaempferi
 蝉 cicada
 蝉科 Cicadidae
@@ -79696,7 +79471,6 @@ word姐 my big sister
 虫豸 insect or insect-like small creature 
 虫类 insects
 虫鸟叫声 chirp
-蟳 
 蛏 mussel
 蟷 mantis
 蟹爪兰 holiday cactus
@@ -79715,13 +79489,11 @@ word姐 my big sister
 蚁䴕  Eurasian wryneck 
 蟾 moon
 蟾蜍 toad
-蟿 
 蚃 larvae
 蠂 Podisma mikado
 蝇 fly
 蝇子 housefly
 蝇虎 jumping spider 
-虿 
 蠉 wriggler
 蠊 cockroach
 蠋 caterpillar
@@ -79743,7 +79515,6 @@ word姐 my big sister
 蠕蠕 wiggling
 蠕变 creep 
 蠖 looper caterpillar
-蠗 
 𧏖 pearl-oyster
 蠚 to sting
 蠛 minute flies
@@ -81363,7 +81134,6 @@ word姐 my big sister
 见马克思 to die
 见驾 to have an audience 
 见鬼 absurd
-觃 
 觃口 Yankou
 规例 regulations
 规制 to regulate
@@ -83885,7 +83655,6 @@ word姐 my big sister
 豍 pea 
 竖井 vertical shaft 
 竖式 standing
-竖折 
 竖提 stroke𠄌 in Chinese characters 
 竖琴 harp
 竖直 vertical
@@ -84042,7 +83811,6 @@ word姐 my big sister
 豺狼当路 ravenous wolves hold the road  wicked people in power
 豺狼当道 ravenous wolves hold the road  wicked people in power
 豺狼虎豹 jackals
-豻 
 貂 sable or marten 
 貂熊 wolverine 
 貂皮 mink fur
@@ -84083,7 +83851,6 @@ word姐 my big sister
 貔貅 mythical animal that brings luck and wards off evil
 貘 tapir
 䝙  animal resembling a tiger
-貜 
 贝 cowrie
 贝丘 shell mound
 贝九 Beethoven's Ninth
@@ -84761,7 +84528,6 @@ word姐 my big sister
 赐死  to order sb to commit suicide
 赐福 to bless
 赐给 to bestow
-賝 
 赏 to bestow 
 赏光 to do sb the honor 
 赏心悦目 warms the heart and delights the eye 
@@ -86251,7 +86017,6 @@ word姐 my big sister
 蹑迹 to follow sb's tracks
 蹑蹀 to walk with mincing steps
 蹑踪 to follow along behind sb 
-躣 
 蹿 to leap up
 蹿升 to rise rapidly
 蹿货 product in great demand
@@ -87507,7 +87272,6 @@ word姐 my big sister
 迥然 vastly 
 迥然不同 widely different
 迥异 totally different
-迦 
 迦南 Canaan 
 迦太基 Carthage
 迦持 the laws of the Buddhism
@@ -88698,7 +88462,6 @@ word姐 my big sister
 遍身 over the whole body
 遍体 all over the body
 遍体鳞伤 covered all over with cuts and bruises
-过 
 过一会儿 later
 过不下 to be unable to continue living 
 过不去 to make life difficult for
@@ -88717,7 +88480,6 @@ word姐 my big sister
 过劳死 karoshi
 过劳肥 overweight from overwork 
 过半 over fifty percent
-过去 
 过去分词 past participle 
 过去式 past tense
 过去时 past tense 
@@ -89489,7 +89251,6 @@ word姐 my big sister
 还魂 to return from the grave
 还魂纸 recycled paper
 邅 not making progress
-邆 
 迩 recently
 迩来 recently
 邈 profound
@@ -89693,7 +89454,6 @@ word姐 my big sister
 郎格罕氏岛 islets of Langerhans 
 郎肯循环 Rankine cycle 
 郎猫  tomcat
-郔 
 郕 surname Cheng
 郗 surname Chi
 郙 ancient place name
@@ -89703,7 +89463,6 @@ word姐 my big sister
 郝 ancient place name
 郝海东 Hao Haidong
 郏 name of a district in Henan
-郠 
 郡 canton
 郡守 senior provincial official in imperial China
 郡会 county capital
@@ -89962,7 +89721,6 @@ word姐 my big sister
 邝 surname Kuang
 鄻 place name
 鄾 place name
-鄿 
 酃 name of a district in Hunan
 酃县 Ling county in Hunan
 酅 place name
@@ -91498,7 +91256,6 @@ word姐 my big sister
 鋕 to engrave
 鋘 to plaster
 铻 hoe
-锊 
 锓 to carve
 鋡 to hold
 锄 a hoe
@@ -91548,7 +91305,6 @@ word姐 my big sister
 铺面 front window
 铺面房 store
 铺首 holder for door knocker
-铖 
 锆 zirconium 
 锆合金 zircaloy
 锆石 zircon 
@@ -91616,7 +91372,6 @@ word姐 my big sister
 钢铁厂 iron and steel works
 钢鞭 mace 
 钢骨水泥 reinforced concrete
-𬬭 
 锞 grease-pot for cart
 录供 to take down a confession
 录像 to videotape
@@ -92166,12 +91921,10 @@ word姐 my big sister
 铁骑 armored horses
 铁齿  obstinate
 铁齿铜牙 clever and eloquent speaker 
-镮 
 铎 large ancient bell
 铛 clank
 铛铛  clang
 铛铛车 tram
-鐻 
 𫟼 darmstadtium 
 镱 ytterbium 
 鑀 einsteinium  
@@ -92215,7 +91968,6 @@ word姐 my big sister
 镳 horsebit
 镥 lutetium 
 𬬻 rutherfordium 
-鑫 
 镧 lanthanum 
 鑯 awl
 钥 key
@@ -92230,7 +91982,6 @@ word姐 my big sister
 镶边 edge
 镶金 gilded
 鑴 to engrave or carve
-鑶  
 镊 tweezers
 镊子 tweezers
 镩 ice spud  with a pointy tip
@@ -93118,7 +92869,6 @@ word姐 my big sister
 阑遗 unclaimed articles
 阑头 lintel
 阑风 continuous blowing of the wind
-阇 
 阇梨 Buddhist monk 
 阇黎 Buddhist teacher 
 阗 fill up
@@ -93720,7 +93470,6 @@ word姐 my big sister
 阿黑门尼德王朝 Achaemenid Empire of Persian 
 阿鼻 Ceaseless pain
 阿鼻地狱 the Avici Hell
-陀 
 陀罗尼 incantation 
 陀螺 spinning top
 陀螺仪 gyroscope
@@ -94518,7 +94267,6 @@ word姐 my big sister
 雁杳鱼沉 without news from sb 
 雁荡 Yandang mountains
 雁荡山 Yandang mountains
-雂 
 雄 male
 雄伟 grand
 雄健 vigorous
@@ -94539,7 +94287,6 @@ word姐 my big sister
 雄蕊 stamen 
 雄蜂 drone 
 雄赳赳 valiantly
-雄起 
 雄踞 to be perched high
 雄辩 eloquent
 雄辩家 orator
@@ -96435,7 +96182,6 @@ word姐 my big sister
 靷 traces 
 靸 children's shoe 
 靺 name of a tribe
-靼 
 靿 the leg of a boot
 鼗 a drum-shaped rattle 
 鞁 horse tack 
@@ -96658,7 +96404,6 @@ word姐 my big sister
 音频文件 audio file 
 音频设备 sound card
 音高 pitch 
-韶 
 韶关 Shaoguan prefecture level city in Guangdong
 韶关地区 Shaoguan prefecture in Guangdong
 韶关市 Shaoguan prefecture level city in Guangdong province
@@ -97789,7 +97534,6 @@ word姐 my big sister
 饥饿 hunger
 饤 display food for show only
 饲 to raise
-饦 
 饨 Chinese ravioli
 饫 full 
 饫甘餍肥 to live off the fat of the land 
@@ -98664,7 +98408,6 @@ word姐 my big sister
 驯马场 horse training ground
 驯驼 trained pack camel
 驯鹿 reindeer
-馵 
 驲 horse for relaying dispatches
 驴 donkey
 驳倒 to refute
@@ -98686,7 +98429,6 @@ word姐 my big sister
 驳面子 to contradict sb to his face
 𫘝 fast 
 𬳶 in good condition 
-駋 
 驻 to halt
 驻京  stationed in Beijing
 驻北京 stationed in Beijing
@@ -98711,7 +98453,6 @@ word姐 my big sister
 驽马恋栈 an incompetent man clings to a good position 
 驹 colt
 驹子 young horse
-𬳵 
 驵 powerful horse
 驾 to harness
 驾乘 to drive 
@@ -98758,7 +98499,6 @@ word姐 my big sister
 骈胁 fused ribs 
 骈体 parallel prose 
 𬳽 large crowd
-駬 
 骇 to astonish
 骇人 terrifying
 骇人听闻 shocking
@@ -98782,7 +98522,6 @@ word姐 my big sister
 骋 to hasten
 骍 horse  of reddish color
 騃 stupid
-𫘧 
 骓  piebald horse
 騆 divine horse
 騇 mare
@@ -98833,7 +98572,6 @@ word姐 my big sister
 骗术 trick
 骗走 to cheat 
 𫘨 spirited horse
-騢 
 鬃 disheveled hair
 骙  powerful
 䯄 piebald horse
@@ -98916,7 +98654,6 @@ word姐 my big sister
 骁勇善战 to be brave and good at fighting 
 骁将 valiant general
 骣 horse without saddle
-驒 
 驔 black horse
 骄 proud
 骄人 worthy of pride
@@ -98957,7 +98694,6 @@ word姐 my big sister
 验钞机 a device used to check money and detect counterfeit bills
 验关 customs inspection 
 验电器 electroscope
-驙 
 惊 to startle
 惊世骇俗 universally shocking
 惊人 astonishing
@@ -100021,7 +99757,6 @@ word姐 my big sister
 𬶍 catfish
 鲅鱼 Japanese Spanish mackerel 
 鲆 family of flatfish
-𫚖 
 鲇 sheatfish 
 鲐 mackerel
 鲍 abalone
@@ -100074,7 +99809,6 @@ word姐 my big sister
 鲜货 produce
 鲪 Sebastodes guntheri
 𩾃 Sciaena albiflora
-鮿 
 鲠喉 to choke on a piece of food etc
 𩾁 Lepidotrigla strauchi
 鯆 the skate or ray
@@ -100178,7 +99912,6 @@ word姐 my big sister
 鳕鱼 cod
 鳖甲 turtle shell
 鳖裙 calipash
-鱎 
 鱐 dried fish
 鳟 trout
 鳟鱼 trout
@@ -100333,7 +100066,6 @@ word姐 my big sister
 鸢尾花 iris 
 鳷 general term for jay
 鳻 the wild pigeon
-鳽 
 䴓 nuthatch 
 鴂 tailorbird 
 鴃 shrike
@@ -100356,8 +100088,6 @@ word姐 my big sister
 鸳鸯浴 taking a bath together as a couple
 鸳鸯蝴蝶 Mandarin ducks and butterfly 
 鸳鸯锅 "mandarin ducks" pot 
-𪉈 
-鸲 
 鸲姬鹟  mugimaki flycatcher 
 鸲岩鹨  robin accentor 
 鸲蝗莺  Savi's warbler 
@@ -100368,7 +100098,6 @@ word姐 my big sister
 鸱甍 a kind of ornament on the roof ridge
 鸱鸮 owl
 鴠 a kind of nightingale
-鴢 
 鸪 partridge
 鴥  to fly swiftly
 鸯 mandarin duck
@@ -101531,7 +101260,6 @@ word姐 my big sister
 点点 point
 点点滴滴 bit by bit
 黟 black and shining ebony
-黠 
 黢 black
 黢黑 pitch-black
 黥 to tattoo criminals on the face or forehead
@@ -101665,7 +101393,6 @@ word姐 my big sister
 鼠蛛 mouse spider 
 鼠蹊 groin
 鼠辈 a scoundrel
-鼢 
 鼩鼱 shrew 
 鼪 stoat
 鼫 long-tailed marmot
